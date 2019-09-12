@@ -6,3 +6,5 @@ exports.spotify = {
 };
 
 const omdbKey = "http://www.omdbapi.com/?apikey=trilogy&"
+
+
