@@ -3,7 +3,6 @@ const Spotify = require("node-spotify-api");
 const moment = require("moment");
 const axios = require("axios");
 const fs = require("fs");
-
 const keys = require("./keys.js");
 
 function execCommand(command, input) {
