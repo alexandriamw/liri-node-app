@@ -58,6 +58,6 @@ On the command line, enter `node liri.js do-what-it-says` and LIRI will essentia
 
 ### APIs Used
 
-[Spotify](https://developer.spotify.com/documentation/web-api/)
-[Bands in Town](https://manager.bandsintown.com/support/bandsintown-api)
-[OMDb](http://omdbapi.com/)
+- [Spotify](https://developer.spotify.com/documentation/web-api/)
+- [Bands in Town](https://manager.bandsintown.com/support/bandsintown-api)
+- [OMDb](http://omdbapi.com/)
