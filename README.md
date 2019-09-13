@@ -38,7 +38,7 @@ On the command line, enter `node liri.js movie-this '[movie name]'` where `[movi
 
 ![screenshot of entering movie-this](movie1.png)
 
-Hit enter and LIRI displays data from the OMDB API, including title, year released, rating, Rotten Tomatoes Rating, country, language, plot, and actors.
+Hit enter and LIRI displays data from the OMDb API, including title, year released, rating, Rotten Tomatoes rating, country, language, plot, and actors.
 
 ![screenshot of entering movie-this](movie2.png)
 
@@ -58,6 +58,6 @@ On the command line, enter `node liri.js do-what-it-says` and LIRI will essentia
 
 ### APIs Used
 
-Spotify
-Bands in Town
-OMDB
+[Spotify](https://developer.spotify.com/documentation/web-api/)
+[Bands in Town](https://manager.bandsintown.com/support/bandsintown-api)
+[OMDb](http://omdbapi.com/)
